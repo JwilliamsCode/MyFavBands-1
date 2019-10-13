@@ -25,7 +25,7 @@ class MasterViewController: UITableViewController {
 //        let addButton = UIBarButtonItem(barButtonSystemItem: .add, target: self, action: #selector(insertNewObject(_:)))
 //        navigationItem.rightBarButtonItem = addButton
 //********3) Add next two lines for array and title
-        listArray = ["Air Supply", "Joe Cocker","Leonard Skynard","Eagles","Journey", "38 Special","Miranda Lambert", "Little Big Town","Band Perry"]
+        listArray = ["Coldplay", "Boston", "Colter Wall","Electric Light Orchestra","Fugees","Matt Heckler", "Pink Floyd","Rainbow Kitten Surprise", "Smash Mouth"]
         title = "My Favorite Bands"
         if let split = splitViewController {
             let controllers = split.viewControllers

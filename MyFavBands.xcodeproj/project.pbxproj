@@ -13,16 +13,16 @@
 		12228811232F340E0094AD50 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1222880F232F340E0094AD50 /* Main.storyboard */; };
 		12228813232F340F0094AD50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 12228812232F340F0094AD50 /* Assets.xcassets */; };
 		12228816232F340F0094AD50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12228814232F340F0094AD50 /* LaunchScreen.storyboard */; };
-		12228826232F34DA0094AD50 /* Miranda Lambert.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1222881E232F34DA0094AD50 /* Miranda Lambert.jpg */; };
-		12228827232F34DA0094AD50 /* Journey.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1222881F232F34DA0094AD50 /* Journey.jpg */; };
-		12228828232F34DA0094AD50 /* Leonard Skynard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 12228820232F34DA0094AD50 /* Leonard Skynard.jpg */; };
-		12228829232F34DA0094AD50 /* Joe Cocker.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 12228821232F34DA0094AD50 /* Joe Cocker.jpg */; };
-		1222882A232F34DA0094AD50 /* 38 Special.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 12228822232F34DA0094AD50 /* 38 Special.jpg */; };
-		1222882B232F34DA0094AD50 /* Band Perry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 12228823232F34DA0094AD50 /* Band Perry.jpg */; };
-		1222882C232F34DA0094AD50 /* Eagles.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 12228824232F34DA0094AD50 /* Eagles.jpg */; };
-		1222882D232F34DA0094AD50 /* Little Big Town.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 12228825232F34DA0094AD50 /* Little Big Town.jpg */; };
-		1222882F232F34F20094AD50 /* Air Supply.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1222882E232F34F20094AD50 /* Air Supply.jpg */; };
 		12228831232F35020094AD50 /* main.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 12228830232F35020094AD50 /* main.jpg */; };
+		BBDF54BC2353E827000EFA58 /* Coldplay.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BBDF54B32353E827000EFA58 /* Coldplay.jpg */; };
+		BBDF54BD2353E827000EFA58 /* Electric Light Orchestra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BBDF54B42353E827000EFA58 /* Electric Light Orchestra.jpg */; };
+		BBDF54BE2353E827000EFA58 /* Boston.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BBDF54B52353E827000EFA58 /* Boston.jpg */; };
+		BBDF54BF2353E827000EFA58 /* Pink Floyd.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BBDF54B62353E827000EFA58 /* Pink Floyd.jpg */; };
+		BBDF54C02353E827000EFA58 /* Smash Mouth.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BBDF54B72353E827000EFA58 /* Smash Mouth.jpg */; };
+		BBDF54C12353E827000EFA58 /* Matt Heckler.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BBDF54B82353E827000EFA58 /* Matt Heckler.jpg */; };
+		BBDF54C22353E827000EFA58 /* Fugees.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BBDF54B92353E827000EFA58 /* Fugees.jpg */; };
+		BBDF54C32353E827000EFA58 /* Colter Wall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BBDF54BA2353E827000EFA58 /* Colter Wall.jpg */; };
+		BBDF54C42353E827000EFA58 /* Rainbow Kitten Surprise.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BBDF54BB2353E827000EFA58 /* Rainbow Kitten Surprise.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,16 +34,16 @@
 		12228812232F340F0094AD50 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		12228815232F340F0094AD50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		12228817232F340F0094AD50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1222881E232F34DA0094AD50 /* Miranda Lambert.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Miranda Lambert.jpg"; sourceTree = "<group>"; };
-		1222881F232F34DA0094AD50 /* Journey.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Journey.jpg; sourceTree = "<group>"; };
-		12228820232F34DA0094AD50 /* Leonard Skynard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Leonard Skynard.jpg"; sourceTree = "<group>"; };
-		12228821232F34DA0094AD50 /* Joe Cocker.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Joe Cocker.jpg"; sourceTree = "<group>"; };
-		12228822232F34DA0094AD50 /* 38 Special.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "38 Special.jpg"; sourceTree = "<group>"; };
-		12228823232F34DA0094AD50 /* Band Perry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Band Perry.jpg"; sourceTree = "<group>"; };
-		12228824232F34DA0094AD50 /* Eagles.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Eagles.jpg; sourceTree = "<group>"; };
-		12228825232F34DA0094AD50 /* Little Big Town.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Little Big Town.jpg"; sourceTree = "<group>"; };
-		1222882E232F34F20094AD50 /* Air Supply.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Air Supply.jpg"; sourceTree = "<group>"; };
 		12228830232F35020094AD50 /* main.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = main.jpg; sourceTree = "<group>"; };
+		BBDF54B32353E827000EFA58 /* Coldplay.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Coldplay.jpg; sourceTree = "<group>"; };
+		BBDF54B42353E827000EFA58 /* Electric Light Orchestra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Electric Light Orchestra.jpg"; sourceTree = "<group>"; };
+		BBDF54B52353E827000EFA58 /* Boston.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Boston.jpg; sourceTree = "<group>"; };
+		BBDF54B62353E827000EFA58 /* Pink Floyd.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pink Floyd.jpg"; sourceTree = "<group>"; };
+		BBDF54B72353E827000EFA58 /* Smash Mouth.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Smash Mouth.jpg"; sourceTree = "<group>"; };
+		BBDF54B82353E827000EFA58 /* Matt Heckler.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Matt Heckler.jpg"; sourceTree = "<group>"; };
+		BBDF54B92353E827000EFA58 /* Fugees.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Fugees.jpg; sourceTree = "<group>"; };
+		BBDF54BA2353E827000EFA58 /* Colter Wall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Colter Wall.jpg"; sourceTree = "<group>"; };
+		BBDF54BB2353E827000EFA58 /* Rainbow Kitten Surprise.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Rainbow Kitten Surprise.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,16 +91,16 @@
 		1222881D232F34A60094AD50 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				BBDF54B52353E827000EFA58 /* Boston.jpg */,
+				BBDF54B32353E827000EFA58 /* Coldplay.jpg */,
+				BBDF54BA2353E827000EFA58 /* Colter Wall.jpg */,
+				BBDF54B42353E827000EFA58 /* Electric Light Orchestra.jpg */,
+				BBDF54B92353E827000EFA58 /* Fugees.jpg */,
+				BBDF54B82353E827000EFA58 /* Matt Heckler.jpg */,
+				BBDF54B62353E827000EFA58 /* Pink Floyd.jpg */,
+				BBDF54BB2353E827000EFA58 /* Rainbow Kitten Surprise.jpg */,
+				BBDF54B72353E827000EFA58 /* Smash Mouth.jpg */,
 				12228830232F35020094AD50 /* main.jpg */,
-				1222882E232F34F20094AD50 /* Air Supply.jpg */,
-				12228822232F34DA0094AD50 /* 38 Special.jpg */,
-				12228823232F34DA0094AD50 /* Band Perry.jpg */,
-				12228824232F34DA0094AD50 /* Eagles.jpg */,
-				12228821232F34DA0094AD50 /* Joe Cocker.jpg */,
-				1222881F232F34DA0094AD50 /* Journey.jpg */,
-				12228820232F34DA0094AD50 /* Leonard Skynard.jpg */,
-				12228825232F34DA0094AD50 /* Little Big Town.jpg */,
-				1222881E232F34DA0094AD50 /* Miranda Lambert.jpg */,
 			);
 			path = images;
 			sourceTree = "<group>";
@@ -163,19 +163,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1222882B232F34DA0094AD50 /* Band Perry.jpg in Resources */,
-				12228829232F34DA0094AD50 /* Joe Cocker.jpg in Resources */,
-				1222882C232F34DA0094AD50 /* Eagles.jpg in Resources */,
-				1222882A232F34DA0094AD50 /* 38 Special.jpg in Resources */,
+				BBDF54C12353E827000EFA58 /* Matt Heckler.jpg in Resources */,
+				BBDF54BD2353E827000EFA58 /* Electric Light Orchestra.jpg in Resources */,
+				BBDF54C22353E827000EFA58 /* Fugees.jpg in Resources */,
+				BBDF54BF2353E827000EFA58 /* Pink Floyd.jpg in Resources */,
 				12228831232F35020094AD50 /* main.jpg in Resources */,
 				12228816232F340F0094AD50 /* LaunchScreen.storyboard in Resources */,
-				12228826232F34DA0094AD50 /* Miranda Lambert.jpg in Resources */,
 				12228813232F340F0094AD50 /* Assets.xcassets in Resources */,
-				12228828232F34DA0094AD50 /* Leonard Skynard.jpg in Resources */,
-				1222882D232F34DA0094AD50 /* Little Big Town.jpg in Resources */,
+				BBDF54C42353E827000EFA58 /* Rainbow Kitten Surprise.jpg in Resources */,
+				BBDF54C32353E827000EFA58 /* Colter Wall.jpg in Resources */,
+				BBDF54C02353E827000EFA58 /* Smash Mouth.jpg in Resources */,
+				BBDF54BC2353E827000EFA58 /* Coldplay.jpg in Resources */,
 				12228811232F340E0094AD50 /* Main.storyboard in Resources */,
-				1222882F232F34F20094AD50 /* Air Supply.jpg in Resources */,
-				12228827232F34DA0094AD50 /* Journey.jpg in Resources */,
+				BBDF54BE2353E827000EFA58 /* Boston.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
